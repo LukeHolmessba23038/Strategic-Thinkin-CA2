@@ -38,16 +38,5 @@ This will start the Jupyter Notebook server and open a tab in your default web b
 Contributing
 Feel free to fork this repository and submit pull requests to contribute to this project. You can also open issues if you find bugs or have feature suggestions.
 
-Contact Information
-For any further inquiries, you can contact [Your Name] at [Your Email].
 
-License
-This project is licensed under the License - see the LICENSE.md file for details.
 
-markdown
-Copy code
-
-### Notes on Customization
-- **Repository URL**: Replace `https://github.com/LukeHolmessba23038/Strategic-Thinkin-CA2/new/main?filename=README.md` with the actual URL of your GitHub repository.
-- **Contact Information**: Provide your actual contact details where indicated.
-- **License**: If you choose a different license or if your project does not require one, adjust the license section accordingly.
